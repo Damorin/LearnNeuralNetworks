@@ -8,6 +8,7 @@ public class RunNetwork {
     public static void main(String[] args) {
         Network network = new Network();
         network.sendInputs(10, 3);
+        network.sendInputs(6,9);
 
     }
 
